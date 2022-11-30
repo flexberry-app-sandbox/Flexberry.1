@@ -61,7 +61,7 @@
       },
       "Access": {
         "DiffSql": true,
-        "FullSql": true,
+        "FullSql": false,
         "ConnectionString": null
       }
     },
